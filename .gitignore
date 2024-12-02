@@ -1,2 +1,4 @@
 /data/raw/*.jsonl
 src/evaluation_results.csv
+/data/raw/*.csv
+/data/processed/*.csv
