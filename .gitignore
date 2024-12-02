@@ -2,3 +2,5 @@
 src/evaluation_results.csv
 /data/raw/*.csv
 /data/processed/*.csv
+data/res/eval_gpt-4o.csv
+data/res/eval_gpt-4o-mini.csv
